@@ -1,0 +1,3 @@
+[submodule "Kz/Support/spdlog"]
+	path = Kz/Support/spdlog
+	url = https://github.com/gabime/spdlog
